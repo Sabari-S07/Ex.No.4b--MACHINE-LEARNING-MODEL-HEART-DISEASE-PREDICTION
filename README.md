@@ -208,7 +208,10 @@ plt.title("Confusion Matrix - Random Forest")
 
 plt.show()
 ```
+## CONFUSION MATRIX RESULT
+
 <img width="539" height="455" alt="a09cc2dd-480f-4252-aa66-78edece0d49a" src="https://github.com/user-attachments/assets/a77d8f30-e7bd-4075-82e1-3f678856f68a" />
+
 
 ## CONCLUSION
 Thus, machine learning classification models were successfully applied for heart disease prediction, and their performance was compared using standard classification evaluation metrics.
